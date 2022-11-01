@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #3a3a3a;
+}
+
+h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.home-image {
+    width: 600px;
+    height: auto;
+}
+
+.recipe-image {
+    width: 350px;
+    height: auto;
+}
+
+.home-list {
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+
